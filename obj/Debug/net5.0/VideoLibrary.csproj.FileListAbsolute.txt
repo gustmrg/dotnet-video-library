@@ -1,0 +1,16 @@
+/opt/workspace/VideoLibrary/bin/Debug/net5.0/VideoLibrary
+/opt/workspace/VideoLibrary/bin/Debug/net5.0/VideoLibrary.deps.json
+/opt/workspace/VideoLibrary/bin/Debug/net5.0/VideoLibrary.runtimeconfig.json
+/opt/workspace/VideoLibrary/bin/Debug/net5.0/VideoLibrary.runtimeconfig.dev.json
+/opt/workspace/VideoLibrary/bin/Debug/net5.0/VideoLibrary.dll
+/opt/workspace/VideoLibrary/bin/Debug/net5.0/ref/VideoLibrary.dll
+/opt/workspace/VideoLibrary/bin/Debug/net5.0/VideoLibrary.pdb
+/opt/workspace/VideoLibrary/obj/Debug/net5.0/VideoLibrary.csproj.AssemblyReference.cache
+/opt/workspace/VideoLibrary/obj/Debug/net5.0/VideoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/opt/workspace/VideoLibrary/obj/Debug/net5.0/VideoLibrary.AssemblyInfoInputs.cache
+/opt/workspace/VideoLibrary/obj/Debug/net5.0/VideoLibrary.AssemblyInfo.cs
+/opt/workspace/VideoLibrary/obj/Debug/net5.0/VideoLibrary.csproj.CoreCompileInputs.cache
+/opt/workspace/VideoLibrary/obj/Debug/net5.0/VideoLibrary.dll
+/opt/workspace/VideoLibrary/obj/Debug/net5.0/ref/VideoLibrary.dll
+/opt/workspace/VideoLibrary/obj/Debug/net5.0/VideoLibrary.pdb
+/opt/workspace/VideoLibrary/obj/Debug/net5.0/VideoLibrary.genruntimeconfig.cache
