@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "/home/gmiranda/.dotnet/store/|arch|/|tfm|",
-      "/home/gmiranda/.nuget/packages"
+      "C:\\Users\\gmira\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\gmira\\.nuget\\packages"
     ]
   }
 }

@@ -15,9 +15,7 @@ namespace VideoLibrary
         }
 
         public Serie()
-        {
-            
-        }
+        { }
 
         private string Title { get; set; }
         private string Description { get; set; }

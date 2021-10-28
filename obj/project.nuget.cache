@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N0EYqp5C/D657JBFCWtb8IjH/I7vAqT6i4aTDWjqag18Z1qzTbmaOuqFFsVzBT6xm+GBByWW5OImxu3JV9wjLw==",
+  "dgSpecHash": "QCWjwfsaSg1yS20moLejXrN9HsypHaS7In4g1WAT91AwfBPt4iMffmW2cuRARvJ2SHzw2wRlof4iqZ0foRvb0g==",
   "success": true,
-  "projectFilePath": "/opt/workspace/VideoLibrary/VideoLibrary.csproj",
+  "projectFilePath": "C:\\Dev\\FakeFlix\\VideoLibrary.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/opt/workspace/VideoLibrary/VideoLibrary.csproj": {}
+    "C:\\Dev\\FakeFlix\\VideoLibrary.csproj": {}
   },
   "projects": {
-    "/opt/workspace/VideoLibrary/VideoLibrary.csproj": {
+    "C:\\Dev\\FakeFlix\\VideoLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/opt/workspace/VideoLibrary/VideoLibrary.csproj",
+        "projectUniqueName": "C:\\Dev\\FakeFlix\\VideoLibrary.csproj",
         "projectName": "VideoLibrary",
-        "projectPath": "/opt/workspace/VideoLibrary/VideoLibrary.csproj",
-        "packagesPath": "/home/gmiranda/.nuget/packages/",
-        "outputPath": "/opt/workspace/VideoLibrary/obj/",
+        "projectPath": "C:\\Dev\\FakeFlix\\VideoLibrary.csproj",
+        "packagesPath": "C:\\Users\\gmira\\.nuget\\packages\\",
+        "outputPath": "C:\\Dev\\FakeFlix\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/gmiranda/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\gmira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -52,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
         }
       }
     }

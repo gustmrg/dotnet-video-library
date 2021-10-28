@@ -14,22 +14,22 @@ namespace VideoLibrary
                 switch (userOption)
                 {
                     case "1":
-                        // ListSeries();
+                        repository.List();
                         break;
                     case "2":
-                        // ListSeries();
+                        // TODO: Method to add Serie to repository
                         break;
                     case "3":
-                        // ListSeries();
+                        // TODO: Method to update Serie in repository
                         break;
                     case "4":
-                        // ListSeries();
+                        // TODO: Method to delete Serie to repository
                         break;
                     case "5":
-                        // ListSeries();
+                        // TODO: Method to view Serie info by ID
                         break;
                     case "0":
-                        // ListSeries();
+                        // Leaves
                         break;
                     default:
                         Console.WriteLine("Opção inválida.");
@@ -55,7 +55,7 @@ namespace VideoLibrary
            Console.WriteLine("[0] - Sair");
            Console.WriteLine("Escolha uma opção: ");
            Console.Write("> ");
-           string option = Console.ReadLine().ToLower();
+           string option = Console.ReadLine();
            return option;
         }
     }
